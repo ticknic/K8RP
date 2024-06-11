@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "K8RP_ESP_1"
+		},
+		{
+			"path": "K8RP_ESP_2"
+		},
+		{
+			"path": "K8RP_HEAD"
+		}
+	],
+	"settings": {
+		"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
+	}
+}
